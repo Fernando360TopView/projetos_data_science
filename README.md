@@ -19,4 +19,4 @@ As a experienced Electrical Engineer and SEO Local Google Specialist I combine a
 * [Medium](https://www.medium.com)
 
 ## Projetos:
-Veja meus projetos de Dta Science :
+Veja meus projetos de Data Science :
