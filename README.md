@@ -21,6 +21,7 @@ My credentials include a Especialization in Engeneering & Data Base Administrati
 
 ## Projetos:
 Veja meus projetos de Data Science :
+
 *
 *
 *
